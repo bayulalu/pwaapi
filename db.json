@@ -1,0 +1,24 @@
+{
+"produts": [
+{"id":1,"name":"Spurfowl, yellow-necked","category":"Red"},
+{"id":2,"name":"Lizard, mexican beaded","category":"Pink"},
+{"id":3,"name":"Wildebeest, blue","category":"Purple"},
+{"id":4,"name":"Hyena, brown","category":"Puce"},
+{"id":5,"name":"Zorro, common","category":"Crimson"},
+{"id":6,"name":"Quoll, eastern","category":"Khaki"},
+{"id":7,"name":"Chital","category":"Purple"},
+{"id":8,"name":"Grebe, little","category":"Crimson"},
+{"id":9,"name":"Yellow-throated sandgrouse","category":"Red"},
+{"id":10,"name":"Hawk-headed parrot","category":"Khaki"},
+{"id":11,"name":"Peregrine falcon","category":"Khaki"},
+{"id":12,"name":"Bush dog","category":"Turquoise"},
+{"id":13,"name":"Spotted wood sandpiper","category":"Orange"},
+{"id":14,"name":"Common palm civet","category":"Green"},
+{"id":15,"name":"Klipspringer","category":"Goldenrod"},
+{"id":16,"name":"Eurasian hoopoe","category":"Violet"},
+{"id":17,"name":"Dove, mourning collared","category":"Puce"},
+{"id":18,"name":"Pied crow","category":"Puce"},
+{"id":19,"name":"Cat, cape wild","category":"Puce"},
+{"id":20,"name":"Goose, canada","category":"Mauv"}
+]
+}
